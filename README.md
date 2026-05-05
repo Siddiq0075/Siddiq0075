@@ -1,171 +1,340 @@
 <div align="center">
 
-# Mohamed Siddiq N
+<!-- HERO BANNER — reliable GitHub raw asset -->
+<img src="https://i.imgur.com/waxVImv.png" alt="separator" width="100%"/>
 
-### Full-Stack Developer &nbsp;·&nbsp; MERN &nbsp;·&nbsp; Python &nbsp;·&nbsp; Bot Automation
+<!-- BOT GIF — hosted on Giphy (publicly accessible, no login required) -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRsNXV3NXd4Z3FtNm85NmZiZzlhcGlvazVmN2VxMGh4ajY1dWVrZSZlcD12MV9pbnRlcm5hbGdfZ2lmX2J5X2lkJmN0PWc/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Bot in action" width="220"/>
+
+<h1>🤖 Discord Moderation Bot</h1>
+
+<p><em>A production-grade, slash-command-driven Discord bot for automated server moderation, anti-spam enforcement, and audit logging — deployed on Railway with continuous uptime.</em></p>
+
+<!-- BADGES — all from shields.io, 100% reliable -->
+<p>
+  <img src="https://img.shields.io/badge/version-1.0.0-5a6340?style=flat-square" alt="version"/>
+  <img src="https://img.shields.io/badge/node-%3E%3D18.x-339933?style=flat-square&logo=node.js&logoColor=white" alt="node"/>
+  <img src="https://img.shields.io/badge/discord.js-v14-5865F2?style=flat-square&logo=discord&logoColor=white" alt="discord.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-connected-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="mongodb"/>
+  <img src="https://img.shields.io/badge/deploy-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="railway"/>
+  <img src="https://img.shields.io/badge/license-MIT-c4a97d?style=flat-square" alt="license"/>
+  <img src="https://img.shields.io/badge/status-production-22c55e?style=flat-square" alt="status"/>
+</p>
+
+<img src="https://i.imgur.com/waxVImv.png" alt="separator" width="100%"/>
+
+</div>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Gmail-mohamedsiddiq7504%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedsiddiq7504@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-siddiq75-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddiq75)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Siddiq0075-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Siddiq0075)
-&nbsp;
-[![Discord](https://img.shields.io/badge/Discord-Siddiq0075-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/Siddiq0075)
-&nbsp;
-[![Views](https://komarev.com/ghpvc/?username=Siddiq0075&style=flat-square&color=5a6340&label=Profile+Views)](https://github.com/Siddiq0075)
+## 📑 Table of Contents
 
-<br/>
+- [Overview](#-overview)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure)
+- [Prerequisites](#-prerequisites)
+- [Installation](#-installation)
+- [Configuration](#-configuration)
+- [Slash Commands](#-slash-commands)
+- [Deployment](#-deployment-railway)
+- [Database Schema](#-database-schema)
+- [Author](#-author)
+- [License](#-license)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=5A6340&center=true&vCenter=true&width=600&lines=Building+scalable+REST+APIs+%F0%9F%9A%80;Real-time+web+apps+with+100%2B+live+users+%F0%9F%8C%90;Production+Discord+bot+automation+%F0%9F%A4%96;ICAC+2026+Published+Researcher+%F0%9F%8F%85;Open+to+all+tech+roles+%E2%80%94+let%27s+connect!)](https://git.io/typing-svg)
+---
 
+## 🧭 Overview
+
+This bot was built to **completely eliminate manual server moderation** overhead on Discord. It uses Discord.js v14 slash commands, persists every infraction and audit event to **MongoDB**, and is deployed with **continuous uptime on Railway** — no babysitting required.
+
+> Built and maintained by **Mohamed Siddiq N** — Full-Stack Developer  
+> 📍 Tiruchirappalli, India &nbsp;|&nbsp; 📧 mohamedsiddiq7504@gmail.com
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzc4dGJ2NXM5NmZiZzlhcGlvazVmN2VxMGh4ajY1dWVrZSZlcD12MV9pbnRlcm5hbGdfZ2lmX2J5X2lkJmN0PWc/du3J3cXyzhj75IOgvA/giphy.gif" width="160" alt="robot working"/>
 </div>
 
 ---
 
-## About Me
+## ✨ Features
 
-I'm a Full-Stack Developer pursuing my **MCA at Jamal Mohamed College, Tiruchirappalli**, specializing in the **MERN stack**, clean API design, and production automation. I build end-to-end systems that serve real users — from designing normalized PostgreSQL schemas for fintech portals, to deploying Discord bots with continuous uptime on Railway, to shipping a real-time quiz platform for **100+ live participants**.
-
-I presented research at **ICAC 2026**, which keeps my thinking sharp beyond just the code. Currently **open to full-time roles, internships, and freelance projects** across all tech domains.
-
-📍 Tiruchirappalli, Tamil Nadu, India &nbsp;&nbsp;|&nbsp;&nbsp; 📞 +91 80720 47789
-
----
-
-## Tech Stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=1e1e14)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=68A063)
-![Express](https://img.shields.io/badge/Express.js-404040?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Discord.py](https://img.shields.io/badge/Discord.py-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb&logoColor=00ED64)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- ⚡ **Slash Commands** — All commands use Discord's native `/command` interface, no prefix needed
+- 🛡️ **Anti-Spam Detection** — Automatically detects and mutes repeat message spammers
+- 🚫 **Bad Word Filter** — Customizable inappropriate language detection with auto-deletion
+- 📋 **Infraction Logging** — Every warn, mute, kick, and ban is logged to MongoDB with timestamps
+- 📊 **Audit Trail** — Full audit history queryable per user
+- 🔔 **DM Notifications** — Users are privately notified when actioned
+- 🔄 **Railway Deploy** — Continuous uptime with zero manual restarts
+- 🧩 **Modular Command Handler** — Easy to add new commands without touching core logic
 
 ---
 
-## Featured Projects
+## 🛠 Tech Stack
 
-### 🏦 EduFund — Student Loan Management Portal
-
-![Status](https://img.shields.io/badge/Status-Ongoing-f59e0b?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-React_·_Node_·_Express_·_PostgreSQL-5a6340?style=flat-square)
-
-Full-stack fintech portal with **role-based dashboards** that automates loan eligibility checks and approval workflows. RESTful APIs handle loan type config, customer records, and installment tracking. Data modelled in **PostgreSQL** with normalized schemas, foreign key constraints, and full relational integrity.
-
----
-
-### 🎯 SWAP 2K25 — Real-Time Quiz Platform
-
-![Status](https://img.shields.io/badge/Status-Delivered-22c55e?style=flat-square)
-![Users](https://img.shields.io/badge/Live_Users-100%2B-5a6340?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-React_·_Node_·_Express_·_MongoDB-5a6340?style=flat-square)
-
-Real-time quiz web app deployed live at the college event SWAP 2K25, serving **100+ concurrent participants** with dynamic question rendering and live leaderboard scoring. Full Node.js/Express + MongoDB backend, consumed by a React.js frontend with zero downtime.
+| Layer | Technology |
+|---|---|
+| Runtime | Node.js ≥ 18.x |
+| Bot Framework | Discord.js v14 |
+| Database | MongoDB (Mongoose ODM) |
+| Deployment | Railway |
+| Language | JavaScript (ES6+) |
+| Dev Tools | Git, VS Code, Nodemon |
 
 ---
 
-### 🤖 Discord Moderation Bot
+## 📁 Project Structure
 
-![Status](https://img.shields.io/badge/Status-Production-22c55e?style=flat-square)
-![Deploy](https://img.shields.io/badge/Deployed-Railway-0B0D0E?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-Node.js_·_Discord.js_·_MongoDB-5a6340?style=flat-square)
-
-Production-deployed bot with **Discord.js slash commands** automating anti-spam enforcement and inappropriate language detection. MongoDB persists infraction logs and audit trails. Runs continuously via Railway — eliminates all manual moderation overhead.
+```
+discord-mod-bot/
+├── src/
+│   ├── commands/
+│   │   ├── moderation/
+│   │   │   ├── ban.js
+│   │   │   ├── kick.js
+│   │   │   ├── mute.js
+│   │   │   ├── warn.js
+│   │   │   └── infractions.js
+│   │   └── utility/
+│   │       ├── ping.js
+│   │       └── help.js
+│   ├── events/
+│   │   ├── ready.js
+│   │   ├── messageCreate.js
+│   │   └── interactionCreate.js
+│   ├── models/
+│   │   └── Infraction.js
+│   └── utils/
+│       ├── commandHandler.js
+│       ├── spamDetector.js
+│       └── logger.js
+├── deploy-commands.js
+├── index.js
+├── .env.example
+├── package.json
+└── README.md
+```
 
 ---
 
-### 📋 Discord Event Registration Bot
+## ✅ Prerequisites
 
-![Status](https://img.shields.io/badge/Status-Production-22c55e?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-Python_·_Discord.py_·_MongoDB-5a6340?style=flat-square)
+Before you begin, make sure you have the following:
 
-Python-based bot automating event participant registration via **slash commands**, with DM confirmations and admin export. Filter, query, and export commands built for admins — completely eliminated manual spreadsheet tracking.
+- **Node.js** `>= 18.x` — [Download](https://nodejs.org/)
+- **MongoDB** URI (Atlas free tier works) — [Get one](https://cloud.mongodb.com/)
+- **Discord Bot Token** — [Discord Developer Portal](https://discord.com/developers/applications)
+- **Railway account** (for deployment) — [railway.app](https://railway.app/)
 
 ---
 
-## GitHub Stats
+## ⚙️ Installation
+
+**1. Clone the repository**
+
+```bash
+git clone https://github.com/Siddiq0075/discord-mod-bot.git
+cd discord-mod-bot
+```
+
+**2. Install dependencies**
+
+```bash
+npm install
+```
+
+**3. Set up environment variables**
+
+```bash
+cp .env.example .env
+```
+
+Open `.env` and fill in your values (see [Configuration](#-configuration) below).
+
+**4. Register slash commands with Discord**
+
+```bash
+node deploy-commands.js
+```
+
+> ⚠️ You only need to run this once, or whenever you add/modify commands.
+
+**5. Start the bot**
+
+```bash
+# Development (with auto-restart)
+npm run dev
+
+# Production
+npm start
+```
+
+---
+
+## 🔧 Configuration
+
+Create a `.env` file in the root directory based on `.env.example`:
+
+```env
+# ─── Discord ──────────────────────────────────────
+DISCORD_TOKEN=your_bot_token_here
+CLIENT_ID=your_application_client_id
+GUILD_ID=your_test_server_id          # Only for dev guild-scoped commands
+
+# ─── MongoDB ──────────────────────────────────────
+MONGO_URI=mongodb+srv://<user>:<password>@cluster.mongodb.net/modbot
+
+# ─── Bot Settings ─────────────────────────────────
+LOG_CHANNEL_ID=your_audit_log_channel_id
+SPAM_THRESHOLD=5                       # Messages per 5 seconds before mute
+MUTE_DURATION_MINUTES=10              # Default auto-mute duration
+```
+
+> 🔒 **Never commit your `.env` file.** It is already in `.gitignore`.
+
+---
+
+## 💬 Slash Commands
+
+### Moderation
+
+| Command | Description | Required Permission |
+|---|---|---|
+| `/warn @user [reason]` | Issues a warning and logs to DB | Moderator |
+| `/mute @user [duration] [reason]` | Mutes a user for a set duration | Moderator |
+| `/unmute @user` | Removes mute from a user | Moderator |
+| `/kick @user [reason]` | Kicks a user from the server | Moderator |
+| `/ban @user [reason]` | Bans a user permanently | Administrator |
+| `/infractions @user` | Shows full infraction history | Moderator |
+| `/clearinfractions @user` | Clears all infractions for a user | Administrator |
+
+### Utility
+
+| Command | Description | Required Permission |
+|---|---|---|
+| `/ping` | Returns bot latency and API response time | Everyone |
+| `/help` | Lists all available commands | Everyone |
+
+### Example Usage
+
+```
+/warn @spammer123 Sending repeated promotional messages
+/mute @user42 duration:30 reason:Inappropriate language
+/infractions @user42
+```
+
+---
+
+## 🚀 Deployment — Railway
+
+This bot is production-deployed on [Railway](https://railway.app/) with continuous uptime.
+
+**Step 1 — Push to GitHub**
+
+```bash
+git add .
+git commit -m "feat: initial bot setup"
+git push origin main
+```
+
+**Step 2 — Create Railway project**
+
+1. Go to [railway.app](https://railway.app/) → **New Project**
+2. Select **Deploy from GitHub repo**
+3. Choose your repository
+
+**Step 3 — Add environment variables**
+
+In your Railway project dashboard → **Variables** → add all keys from your `.env` file.
+
+**Step 4 — Set start command**
+
+In Railway → **Settings** → **Deploy** → set:
+
+```
+node index.js
+```
+
+**Step 5 — Deploy**
+
+Railway auto-deploys on every push to `main`. Your bot will be live within ~60 seconds.
+
+> ✅ Railway provides free restarts on crashes and persistent uptime without a credit card for hobby projects.
+
+---
+
+## 🗄 Database Schema
+
+Infractions are stored in MongoDB using Mongoose:
+
+```js
+// src/models/Infraction.js
+
+const mongoose = require('mongoose');
+
+const InfractionSchema = new mongoose.Schema({
+  userId:    { type: String, required: true },
+  guildId:   { type: String, required: true },
+  type:      { type: String, enum: ['warn', 'mute', 'kick', 'ban'], required: true },
+  reason:    { type: String, default: 'No reason provided' },
+  moderator: { type: String, required: true },
+  timestamp: { type: Date,   default: Date.now },
+});
+
+module.exports = mongoose.model('Infraction', InfractionSchema);
+```
+
+---
+
+## 👤 Author
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddiq0075&show_icons=true&hide_border=true&title_color=5a6340&icon_color=c4a97d&text_color=333333&bg_color=ffffff&count_private=true&rank_icon=github)
+**Mohamed Siddiq N**
 
-&nbsp;
+*Full-Stack Developer — MERN · Python · Bot Automation*
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddiq0075&layout=compact&hide_border=true&title_color=5a6340&text_color=333333&bg_color=ffffff&langs_count=8)
-
-&nbsp;
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Siddiq0075&theme=default&hide_border=true&stroke=5a6340&ring=c4a97d&fire=c4a97d&currStreakLabel=5a6340&sideLabels=5a6340&dates=888888)
-
-</div>
-
----
-
-## Education
-
-**🎓 Master of Computer Applications (MCA)**
-Jamal Mohamed College (Autonomous), Tiruchirappalli &nbsp;·&nbsp; *Jun 2025 – Present*
-Relevant: Software Engineering · Distributed Systems · DBMS
-
-**🎓 Bachelor of Computer Applications (BCA)**
-Jamal Mohamed College (Autonomous), Tiruchirappalli &nbsp;·&nbsp; *Jun 2022 – Apr 2025*
-Relevant: Data Structures · Web Technologies · OOP
-
----
-
-## Achievements
-
-🏅 &nbsp;**Published & Presented at ICAC 2026** — International Conference on Advanced Computing, JMC
-
-📜 &nbsp;**Typewriting English (Junior)** — Department of Technical Education, Tamil Nadu
-
-🚀 &nbsp;**SWAP 2K25** — Delivered real-time platform to 100+ live users with zero downtime
-
-⚙️ &nbsp;**2 Production Bots** — Deployed on Railway with continuous uptime since 2024
-
----
-
-## Let's Connect
-
-<div align="center">
-
-[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedsiddiq7504@gmail.com)
-&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedsiddiq7504@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddiq75)
-&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siddiq0075)
-&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Siddiq0075)
 
-<br/>
+📍 Tiruchirappalli, Tamil Nadu, India
 
-*"Clean code. Real users. Shipped products."*
+</div>
+
+---
+
+## 📄 License
+
+```
+MIT License
+
+Copyright (c) 2025 Mohamed Siddiq N
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+```
+
+---
+
+<div align="center">
+
+<img src="https://i.imgur.com/waxVImv.png" alt="separator" width="100%"/>
+
+*Built with ❤️ by Mohamed Siddiq N &nbsp;·&nbsp; Tiruchirappalli, India*
+
+⭐ **Star this repo if it helped you!**
+
+<img src="https://i.imgur.com/waxVImv.png" alt="separator" width="100%"/>
 
 </div>
