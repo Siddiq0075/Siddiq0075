@@ -1,213 +1,170 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5a6340,c4a97d&height=200&section=header&text=Mohamed%20Siddiq%20N&fontSize=48&fontColor=faf6ee&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%94%20MERN%20%C2%B7%20Python%20%C2%B7%20Bot%20Automation&descAlignY=58&descSize=16&descColor=ddc9a3" />
+# Mohamed Siddiq N
 
-</div>
+### Full-Stack Developer &nbsp;·&nbsp; MERN &nbsp;·&nbsp; Python &nbsp;·&nbsp; Bot Automation
 
 <br/>
 
-<div align="center">
+[![Email](https://img.shields.io/badge/Gmail-mohamedsiddiq7504%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamedsiddiq7504@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-siddiq75-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddiq75)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Siddiq0075-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Siddiq0075)
+&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-Siddiq0075-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/Siddiq0075)
+&nbsp;
+[![Views](https://komarev.com/ghpvc/?username=Siddiq0075&style=flat-square&color=5a6340&label=Profile+Views)](https://github.com/Siddiq0075)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=22&pause=1000&color=5A6340&center=true&vCenter=true&width=600&lines=Building+scalable+REST+APIs+%F0%9F%9A%80;Real-time+web+apps+with+MERN+stack+%F0%9F%8C%90;Discord+bot+automation+%F0%9F%A4%96;Clean%2C+maintainable+code+%E2%9C%A8;Open+to+all+tech+roles+%F0%9F%91%80)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=5A6340&center=true&vCenter=true&width=600&lines=Building+scalable+REST+APIs+%F0%9F%9A%80;Real-time+web+apps+with+100%2B+live+users+%F0%9F%8C%90;Production+Discord+bot+automation+%F0%9F%A4%96;ICAC+2026+Published+Researcher+%F0%9F%8F%85;Open+to+all+tech+roles+%E2%80%94+let%27s+connect!)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  > whoami                                                       │
-│  Mohamed Siddiq N — Full-Stack Developer                        │
-│                                                                 │
-│  > location                                                     │
-│  Tiruchirappalli, Tamil Nadu, India 🌏                          │
-│                                                                 │
-│  > status                                                       │
-│  MCA @ Jamal Mohamed College (2025–Present)                     │
-│  Open to: Full-time · Internships · Freelance                   │
-│                                                                 │
-│  > fun_fact                                                     │
-│  Published at ICAC 2026 🏅 · 100+ live users · 2 prod bots     │
-└─────────────────────────────────────────────────────────────────┘
-```
+I'm a Full-Stack Developer pursuing my **MCA at Jamal Mohamed College, Tiruchirappalli**, specializing in the **MERN stack**, clean API design, and production automation. I build end-to-end systems that serve real users — from designing normalized PostgreSQL schemas for fintech portals, to deploying Discord bots with continuous uptime on Railway, to shipping a real-time quiz platform for **100+ live participants**.
 
-I'm a Full-Stack Developer who ships **end-to-end solutions** — from normalized PostgreSQL schemas to Railway-deployed bots running 24/7.
-I thrive on clean API design, real-time systems, and automation that eliminates boring repetitive work.
-Currently deepening expertise in Distributed Systems and Software Engineering through my MCA.
+I presented research at **ICAC 2026**, which keeps my thinking sharp beyond just the code. Currently **open to full-time roles, internships, and freelance projects** across all tech domains.
 
-<br/>
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/mohamedsiddiq7504%40gmail.com-5a6340?style=for-the-badge&logo=gmail&logoColor=faf6ee)](mailto:mohamedsiddiq7504@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/siddiq75-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddiq75)
-[![GitHub](https://img.shields.io/badge/Siddiq0075-1a1a1a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siddiq0075)
-[![Discord](https://img.shields.io/badge/Siddiq0075-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Siddiq0075)
-[![Profile Views](https://komarev.com/ghpvc/?username=Siddiq0075&style=for-the-badge&color=5a6340&label=PROFILE+VIEWS)](https://github.com/Siddiq0075)
-
-</div>
+📍 Tiruchirappalli, Tamil Nadu, India &nbsp;&nbsp;|&nbsp;&nbsp; 📞 +91 80720 47789
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
+## Tech Stack
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=1e1e14)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=1e1e14)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=1e1e14)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-5a6340?style=flat-square&logo=fastapi&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
-![Discord.py](https://img.shields.io/badge/Discord.py-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=68A063)
+![Express](https://img.shields.io/badge/Express.js-404040?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Discord.py](https://img.shields.io/badge/Discord.py-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb&logoColor=00ED64)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
 **Tools & DevOps**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🏦 EduFund — Student Loan Management Portal
 
-### 🏦 EduFund — Student Loan Portal
-![Status](https://img.shields.io/badge/Status-Ongoing-c4a97d?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-PERN-5a6340?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Ongoing-f59e0b?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-React_·_Node_·_Express_·_PostgreSQL-5a6340?style=flat-square)
 
-Full-stack fintech portal with **role-based dashboards**, automating loan eligibility checks and approval workflows. Features normalized PostgreSQL schemas with foreign key integrity across loan, customer, and installment tables.
+Full-stack fintech portal with **role-based dashboards** that automates loan eligibility checks and approval workflows. RESTful APIs handle loan type config, customer records, and installment tracking. Data modelled in **PostgreSQL** with normalized schemas, foreign key constraints, and full relational integrity.
 
-`React.js` `Tailwind CSS` `Node.js` `Express.js` `PostgreSQL`
-
-</td>
-<td width="50%" valign="top">
+---
 
 ### 🎯 SWAP 2K25 — Real-Time Quiz Platform
-![Status](https://img.shields.io/badge/Status-Delivered-5a6340?style=flat-square)
-![Users](https://img.shields.io/badge/Live_Users-100%2B-c4a97d?style=flat-square)
 
-Real-time quiz web app deployed for a live college event, serving **100+ concurrent participants** with dynamic question rendering and live leaderboard tracking.
+![Status](https://img.shields.io/badge/Status-Delivered-22c55e?style=flat-square)
+![Users](https://img.shields.io/badge/Live_Users-100%2B-5a6340?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-React_·_Node_·_Express_·_MongoDB-5a6340?style=flat-square)
 
-`React.js` `Node.js` `Express.js` `MongoDB`
+Real-time quiz web app deployed live at the college event SWAP 2K25, serving **100+ concurrent participants** with dynamic question rendering and live leaderboard scoring. Full Node.js/Express + MongoDB backend, consumed by a React.js frontend with zero downtime.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
 ### 🤖 Discord Moderation Bot
-![Status](https://img.shields.io/badge/Status-Production-5a6340?style=flat-square)
-![Deploy](https://img.shields.io/badge/Deploy-Railway-0B0D0E?style=flat-square)
 
-Production-deployed bot with **slash commands** automating anti-spam enforcement and inappropriate language detection. MongoDB persists infraction logs; continuous uptime via Railway — zero manual moderation.
+![Status](https://img.shields.io/badge/Status-Production-22c55e?style=flat-square)
+![Deploy](https://img.shields.io/badge/Deployed-Railway-0B0D0E?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Node.js_·_Discord.js_·_MongoDB-5a6340?style=flat-square)
 
-`Node.js` `Discord.js` `MongoDB` `Railway`
+Production-deployed bot with **Discord.js slash commands** automating anti-spam enforcement and inappropriate language detection. MongoDB persists infraction logs and audit trails. Runs continuously via Railway — eliminates all manual moderation overhead.
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### 📋 Discord Event Registration Bot
-![Status](https://img.shields.io/badge/Status-Production-5a6340?style=flat-square)
-![Language](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square)
 
-Automates event participant registration via **slash commands** with DM confirmations, admin export, and filter/query capabilities — eliminating manual spreadsheet tracking entirely.
+![Status](https://img.shields.io/badge/Status-Production-22c55e?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Python_·_Discord.py_·_MongoDB-5a6340?style=flat-square)
 
-`Python` `Discord.py` `MongoDB`
-
-</td>
-</tr>
-</table>
+Python-based bot automating event participant registration via **slash commands**, with DM confirmations and admin export. Filter, query, and export commands built for admins — completely eliminated manual spreadsheet tracking.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Siddiq0075&show_icons=true&theme=nord&hide_border=true&title_color=5a6340&icon_color=c4a97d&text_color=4a4a38&bg_color=f5f0e8" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddiq0075&layout=compact&theme=nord&hide_border=true&title_color=5a6340&text_color=4a4a38&bg_color=f5f0e8" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddiq0075&show_icons=true&hide_border=true&title_color=5a6340&icon_color=c4a97d&text_color=333333&bg_color=ffffff&count_private=true&rank_icon=github)
+
+&nbsp;
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddiq0075&layout=compact&hide_border=true&title_color=5a6340&text_color=333333&bg_color=ffffff&langs_count=8)
+
+&nbsp;
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Siddiq0075&theme=default&hide_border=true&stroke=5a6340&ring=c4a97d&fire=c4a97d&currStreakLabel=5a6340&sideLabels=5a6340&dates=888888)
+
+</div>
+
+---
+
+## Education
+
+**🎓 Master of Computer Applications (MCA)**
+Jamal Mohamed College (Autonomous), Tiruchirappalli &nbsp;·&nbsp; *Jun 2025 – Present*
+Relevant: Software Engineering · Distributed Systems · DBMS
+
+**🎓 Bachelor of Computer Applications (BCA)**
+Jamal Mohamed College (Autonomous), Tiruchirappalli &nbsp;·&nbsp; *Jun 2022 – Apr 2025*
+Relevant: Data Structures · Web Technologies · OOP
+
+---
+
+## Achievements
+
+🏅 &nbsp;**Published & Presented at ICAC 2026** — International Conference on Advanced Computing, JMC
+
+📜 &nbsp;**Typewriting English (Junior)** — Department of Technical Education, Tamil Nadu
+
+🚀 &nbsp;**SWAP 2K25** — Delivered real-time platform to 100+ live users with zero downtime
+
+⚙️ &nbsp;**2 Production Bots** — Deployed on Railway with continuous uptime since 2024
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedsiddiq7504@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddiq75)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siddiq0075)
+&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Siddiq0075)
 
 <br/>
-
-<img src="https://streak-stats.demolab.com?user=Siddiq0075&theme=transparent&hide_border=true&stroke=5a6340&ring=c4a97d&fire=c4a97d&currStreakLabel=5a6340&dates=4a4a38&sideLabels=5a6340" />
-
-</div>
-
----
-
-## 🏅 Achievements & Certifications
-
-| 🏆 Achievement | 📅 Year | 🏛️ Organization |
-|---|---|---|
-| Published & Presented at ICAC 2026 | 2026 | International Conference on Advanced Computing, JMC |
-| Typewriting English (Junior) | — | Department of Technical Education, Tamil Nadu |
-| SWAP 2K25 — 100+ Live Users | 2025 | Jamal Mohamed College |
-| 2 Production Discord Bots Deployed | 2024 | Personal Projects |
-
----
-
-## 🎓 Education
-
-```
-🎓 Master of Computer Applications (MCA)
-   Jamal Mohamed College (Autonomous), Tiruchirappalli
-   Jun 2025 – Present
-   Relevant: Software Engineering · Distributed Systems · DBMS
-
-🎓 Bachelor of Computer Applications (BCA)
-   Jamal Mohamed College (Autonomous), Tiruchirappalli
-   Jun 2022 – Apr 2025 · 66.5% (Part-III)
-   Relevant: Data Structures · Web Technologies · OOP
-```
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-| Platform | Link |
-|---|---|
-| 📧 Email | [mohamedsiddiq7504@gmail.com](mailto:mohamedsiddiq7504@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/siddiq75](https://linkedin.com/in/siddiq75) |
-| 🐙 GitHub | [github.com/Siddiq0075](https://github.com/Siddiq0075) |
-| 🎮 Discord | [Siddiq0075](https://discord.com/users/Siddiq0075) |
-| 📞 Phone | +91 80720 47789 |
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5a6340,c4a97d&height=120&section=footer&fontColor=faf6ee" />
 
 *"Clean code. Real users. Shipped products."*
 
