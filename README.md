@@ -1,74 +1,187 @@
-# 👨‍💻 Mohamed Siddiq N
+<div align="center">
 
-*Full-Stack MERN Developer & Discord Automation Specialist*
+<!-- Animated SVG Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0010,50:8b0057,100:dc1472&height=220&section=header&text=Mohamed%20Siddiq%20N&fontSize=42&fontColor=ffd6ee&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Discord%20Automation%20Specialist&descAlignY=58&descColor=e890c8&animation=twinkling" />
 
-> I build scalable REST APIs, craft cloud-deployed web applications, and engineer robust Discord bot automation. I focus on delivering end-to-end solutions with clean, maintainable code wrapped in intuitive, smooth user experiences.
+</div>
 
-### 🔗 Connect With Me
-<p align="left">
-  <a href="mailto:mohamedsiddiq7504@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/siddiq75"><img src="https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Siddiq0075"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://siddiq0075.github.io/Siddiq0075-"><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=globe&logoColor=white" alt="Portfolio" /></a>
-</p>
+<div align="center">
+
+<!-- Looping typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&pause=1000&color=DC1472&center=true&vCenter=true&width=700&lines=⚡+Super+Saiyan+Rosé+Developer+Mode+ACTIVATED;🌸+Building+scalable+REST+APIs+%26+web+apps;🤖+Engineering+Discord+bot+automation;💻+Full-Stack+MERN+%7C+Cloud+Deployed;🔥+Clean+code.+Divine+power." alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> *「 I build scalable REST APIs, craft cloud-deployed web applications, and engineer robust Discord bot automation. End-to-end solutions with clean, maintainable code wrapped in intuitive, smooth user experiences. 」*
+
+</div>
+
+<br/>
 
 ---
 
-## 🛠️ Technical Arsenal
+<div align="center">
 
-**Languages:** <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript" /> <img src="https://img.shields.io/badge/Python-black?style=flat&logo=python" /> <img src="https://img.shields.io/badge/SQL-black?style=flat&logo=postgresql" /> <img src="https://img.shields.io/badge/HTML5-black?style=flat&logo=html5" /> <img src="https://img.shields.io/badge/CSS3-black?style=flat&logo=css3" />
+## 🌸 Connect With Me
 
-**Frontend:** <img src="https://img.shields.io/badge/React.js-black?style=flat&logo=react" /> <img src="https://img.shields.io/badge/Tailwind_CSS-black?style=flat&logo=tailwindcss" />
+[![Email](https://img.shields.io/badge/Gmail-1a0010?style=for-the-badge&logo=gmail&logoColor=dc1472&labelColor=1a0010)](mailto:mohamedsiddiq7504@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0010?style=for-the-badge&logo=linkedin&logoColor=dc1472&labelColor=1a0010)](https://linkedin.com/in/siddiq75)
+[![GitHub](https://img.shields.io/badge/GitHub-1a0010?style=for-the-badge&logo=github&logoColor=dc1472&labelColor=1a0010)](https://github.com/Siddiq0075)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a0010?style=for-the-badge&logo=vercel&logoColor=dc1472&labelColor=1a0010)](https://siddiq0075.github.io/Siddiq0075-)
 
-**Backend:** <img src="https://img.shields.io/badge/Node.js-black?style=flat&logo=nodedotjs" /> <img src="https://img.shields.io/badge/Express.js-black?style=flat&logo=express" /> <img src="https://img.shields.io/badge/REST_APIs-black?style=flat" /> <img src="https://img.shields.io/badge/Discord.js-black?style=flat&logo=discord" /> <img src="https://img.shields.io/badge/Discord.py-black?style=flat&logo=python" />
+</div>
 
-**Databases:** <img src="https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb" /> <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat&logo=postgresql" />
+---
 
-**Tools & DevOps:** <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git" /> <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" /> <img src="https://img.shields.io/badge/Railway-black?style=flat&logo=railway" /> <img src="https://img.shields.io/badge/VS_Code-black?style=flat&logo=visualstudiocode" /> <img src="https://img.shields.io/badge/Eclipse-black?style=flat&logo=eclipseide" />
+## ⚡ Technical Arsenal
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-1a0010?style=flat-square&logo=javascript&logoColor=dc1472)
+![Python](https://img.shields.io/badge/Python-1a0010?style=flat-square&logo=python&logoColor=dc1472)
+![SQL](https://img.shields.io/badge/SQL-1a0010?style=flat-square&logo=postgresql&logoColor=dc1472)
+![HTML5](https://img.shields.io/badge/HTML5-1a0010?style=flat-square&logo=html5&logoColor=dc1472)
+![CSS3](https://img.shields.io/badge/CSS3-1a0010?style=flat-square&logo=css3&logoColor=dc1472)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React.js-1a0010?style=flat-square&logo=react&logoColor=dc1472)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-1a0010?style=flat-square&logo=tailwindcss&logoColor=dc1472)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-1a0010?style=flat-square&logo=nodedotjs&logoColor=dc1472)
+![Express](https://img.shields.io/badge/Express.js-1a0010?style=flat-square&logo=express&logoColor=dc1472)
+![REST API](https://img.shields.io/badge/REST_APIs-1a0010?style=flat-square&logo=fastapi&logoColor=dc1472)
+![Discord.js](https://img.shields.io/badge/Discord.js-1a0010?style=flat-square&logo=discord&logoColor=dc1472)
+![Discord.py](https://img.shields.io/badge/Discord.py-1a0010?style=flat-square&logo=python&logoColor=dc1472)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-1a0010?style=flat-square&logo=mongodb&logoColor=dc1472)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a0010?style=flat-square&logo=postgresql&logoColor=dc1472)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-1a0010?style=flat-square&logo=git&logoColor=dc1472)
+![GitHub](https://img.shields.io/badge/GitHub-1a0010?style=flat-square&logo=github&logoColor=dc1472)
+![Railway](https://img.shields.io/badge/Railway-1a0010?style=flat-square&logo=railway&logoColor=dc1472)
+![VS Code](https://img.shields.io/badge/VS_Code-1a0010?style=flat-square&logo=visualstudiocode&logoColor=dc1472)
+![Eclipse](https://img.shields.io/badge/Eclipse-1a0010?style=flat-square&logo=eclipseide&logoColor=dc1472)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎓 EduFund - Student Loan Management Portal (Ongoing)
-* **Stack:** React.js, Tailwind CSS, Node.js, Express.js, PostgreSQL
-* Built a full-stack student loan portal with role-based dashboards and automated eligibility checks.
-* Designed RESTful APIs for loan configuration and monthly installment tracking.
-* Modeled relational data in PostgreSQL with normalized schemas and foreign key constraints.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🧠 SWAP 2K25 - College Event Quiz Platform
-* **Stack:** React.js, CSS, Node.js, Express.js, MongoDB
-* Delivered a real-time quiz app serving 100+ live participants with live score tracking.
-* Implemented a Node.js/Express backend with MongoDB to persist quiz sessions and leaderboards.
+### 🎓 EduFund — Student Loan Portal
+![Status](https://img.shields.io/badge/Status-Ongoing-dc1472?style=flat-square&labelColor=1a0010)
+
+Full-stack loan management portal with **role-based dashboards** and automated eligibility checks. RESTful APIs for loan configuration and monthly installment tracking. Normalized PostgreSQL schemas with foreign key constraints.
+
+![React](https://img.shields.io/badge/-React.js-1a0010?style=flat-square&logo=react&logoColor=e890c8)
+![Node](https://img.shields.io/badge/-Node.js-1a0010?style=flat-square&logo=nodedotjs&logoColor=e890c8)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1a0010?style=flat-square&logo=postgresql&logoColor=e890c8)
+![Tailwind](https://img.shields.io/badge/-Tailwind-1a0010?style=flat-square&logo=tailwindcss&logoColor=e890c8)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 SWAP 2K25 — Quiz Platform
+![Status](https://img.shields.io/badge/Status-Shipped-8b0057?style=flat-square&labelColor=1a0010)
+
+Real-time quiz app that served **100+ live participants** with live score tracking. Node.js/Express backend with MongoDB to persist quiz sessions and leaderboards.
+
+![React](https://img.shields.io/badge/-React.js-1a0010?style=flat-square&logo=react&logoColor=e890c8)
+![Node](https://img.shields.io/badge/-Node.js-1a0010?style=flat-square&logo=nodedotjs&logoColor=e890c8)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1a0010?style=flat-square&logo=mongodb&logoColor=e890c8)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🛡️ Discord Moderation Bot
-* **Stack:** Node.js, Discord.js, MongoDB
-* Engineered a production bot using slash commands to automate anti-spam enforcement.
-* Integrated MongoDB for user infraction logs and deployed via Railway for continuous uptime.
+![Status](https://img.shields.io/badge/Status-Production-dc1472?style=flat-square&labelColor=1a0010)
+
+Production bot using **slash commands** to automate anti-spam enforcement. MongoDB for user infraction logs, deployed via Railway for continuous uptime.
+
+![Node](https://img.shields.io/badge/-Node.js-1a0010?style=flat-square&logo=nodedotjs&logoColor=e890c8)
+![Discord.js](https://img.shields.io/badge/-Discord.js-1a0010?style=flat-square&logo=discord&logoColor=e890c8)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1a0010?style=flat-square&logo=mongodb&logoColor=e890c8)
+![Railway](https://img.shields.io/badge/-Railway-1a0010?style=flat-square&logo=railway&logoColor=e890c8)
+
+</td>
+<td width="50%" valign="top">
 
 ### 📅 Discord Event Registration Bot
-* **Stack:** Python, Discord.py, MongoDB
-* Developed a bot to automate participant registration with DM confirmations.
-* Reduced event coordination time by enabling admin filtering and data export from MongoDB.
+![Status](https://img.shields.io/badge/Status-Deployed-8b0057?style=flat-square&labelColor=1a0010)
+
+Automates participant registration with **DM confirmations**. Admin filtering and MongoDB data export reduced event coordination time significantly.
+
+![Python](https://img.shields.io/badge/-Python-1a0010?style=flat-square&logo=python&logoColor=e890c8)
+![Discord.py](https://img.shields.io/badge/-Discord.py-1a0010?style=flat-square&logo=discord&logoColor=e890c8)
+![MongoDB](https://img.shields.io/badge/-MongoDB-1a0010?style=flat-square&logo=mongodb&logoColor=e890c8)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎓 Education & Certifications
 
-* **Master of Computer Applications (MCA)** | *Jamal Mohamed College (Autonomous)* | Jun 2025 – Present
-  * *Relevant Coursework:* Software Engineering, Distributed Systems, DBMS.
+| Degree | Institution | Period | Details |
+|--------|-------------|--------|---------|
+| 🎓 **MCA** — Master of Computer Applications | Jamal Mohamed College (Autonomous) | Jun 2025 – Present | Software Engineering · Distributed Systems · DBMS |
+| 🎓 **BCA** — Bachelor of Computer Applications | Jamal Mohamed College (Autonomous) | Jun 2022 – Apr 2025 | Result: 66.5% · Data Structures · Web Technologies · OOP |
 
-* **Bachelor of Computer Applications (BCA)** | *Jamal Mohamed College (Autonomous)* | Jun 2022 – Apr 2025
-  * *Result:* 66.5% (Part-III).
-  * *Relevant Coursework:* Data Structures, Web Technologies, OOP.
+**🏆 Achievements**
 
-**🏆 Certifications & Achievements**
-* **Published/Presented:** International Conference on Advanced Computing (ICAC 2026), Jamal Mohamed College.
-* **Technical Education:** Typewriting English (Junior) - Dept. of Technical Education.
+- 📄 **Published & Presented** at International Conference on Advanced Computing (ICAC 2026), Jamal Mohamed College
+- ⌨️ **Typewriting English (Junior)** — Dept. of Technical Education
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Siddiq0075&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1a0010&title_color=dc1472&icon_color=e890c8&text_color=ffd6ee&border_radius=10" height="160" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddiq0075&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1a0010&title_color=dc1472&text_color=ffd6ee&border_radius=10" height="160" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Siddiq0075&theme=radical&hide_border=true&background=1a0010&ring=dc1472&fire=e890c8&currStreakLabel=ffd6ee&sideLabels=ffd6ee&dates=e890c8&border_radius=10" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- Activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddiq0075&bg_color=1a0010&color=e890c8&line=dc1472&point=ffd6ee&area=true&area_color=8b0057&hide_border=true&radius=10" />
+
+</div>
 
 ---
 
 <div align="center">
-  <br />
-  <img src="https://streak-stats.demolab.com?user=Siddiq0075&theme=vision-friendly-dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0010,50:8b0057,100:dc1472&height=120&section=footer&animation=twinkling" />
+
 </div>
