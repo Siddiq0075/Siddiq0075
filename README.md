@@ -1,203 +1,126 @@
-<div align="center">
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5a6340,c4a97d&height=200&section=header&text=Mohamed%20Siddiq%20N&fontSize=48&fontColor=faf6ee&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%E2%80%A2%20Python%20%E2%80%A2%20Bot%20Engineer&descAlignY=58&descColor=ddc9a3&animation=fadeIn" />
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  [cite_start]Hi, I'm <strong>Mohamed Siddiq N</strong> [cite: 1]
+</h1>
 
-</div>
+<h3>Full-Stack MERN Developer | [cite_start]Discord Automation Specialist</h3> [cite: 1]
 
-<br/>
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-<div align="center">
+  <p>
+    I am a Full-Stack MERN Developer specializing in building scalable REST APIs, Discord bot automation, and cloud-deployed web applications[cite: 1]. I focus on delivering end-to-end solutions with clean, maintainable code[cite: 2].
+  </p>
 
-  <a href="https://linkedin.com/in/siddiq75">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:mohamedsiddiq7504@gmail.com"><img src="https://img.shields.io/badge/📧_Email-1e1e2e?style=for-the-badge" /></a>
+    <a href="https://linkedin.com/in/siddiq75"><img src="https://img.shields.io/badge/🤝_LinkedIn-1e1e2e?style=for-the-badge" /></a>
+    <a href="https://siddiq0075.github.io/Siddiq0075-"><img src="https://img.shields.io/badge/🌐_Portfolio-1e1e2e?style=for-the-badge" /></a>
+  </p>
+
+<h3>🌐 Socials</h3>
+  
+<p align="left">
   <a href="https://github.com/Siddiq0075">
-    <img src="https://img.shields.io/badge/GitHub-1a1a14?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="mailto:mohamedsiddiq7504@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://linkedin.com/in/siddiq75">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://discord.com/users/Siddiq0075">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+</p>
 
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=Siddiq0075&style=for-the-badge&color=5a6340&label=PROFILE+VIEWS" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Work-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white" />
-
+  <img src="https://komarev.com/ghpvc/?username=Siddiq0075&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
----
+<br clear="all" />
 
-## `$ whoami`
-
-```js
-const siddiq = {
-  name:       "Mohamed Siddiq N",
-  role:       "Full-Stack Developer",
-  location:   "Tiruchirappalli, Tamil Nadu, India",
-  education:  "MCA @ Jamal Mohamed College (2025–Present)",
-  stack:      ["React.js", "Node.js", "Express.js", "MongoDB", "PostgreSQL"],
-  currently:  "Building EduFund — a full-stack student loan management portal",
-  published:  "ICAC 2026 — International Conference on Advanced Computing",
-  openTo:     ["Full-Stack Roles", "Backend Roles", "Internships", "Freelance"],
-  funFact:    "My Discord bots run 24/7 so I don't have to",
-};
-```
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6B35?style=flat-square&logo=fastapi&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
-![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</div>
+## 🛠️ Skills
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
+ [cite_start]<img src="https://skillicons.dev/icons?i=js,python,html,css" /> [cite: 3]
+<br/><br/>
+</td>
+<td width="50%" align="center">
+   <h3>📚 Frameworks & Libraries</h3>
+[cite_start]<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" /> [cite: 3]
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <h3>🗄️ Databases</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" /> [cite: 3]
+<br/><br/>
+</td>
+<td width="50%" align="center">
+    <h3>🧰 Tools & DevOps</h3>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" /> [cite: 3]
+</td>
+</tr>
+</table>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### [cite_start]**EduFund - Student Loan Management Portal** (Ongoing) [cite: 5]
+* [cite_start]**Tech Stack:** React.js, Tailwind CSS, Node.js, Express.js, PostgreSQL[cite: 5].
+* [cite_start]Built a full-stack student loan portal with role-based dashboards and automated eligibility checks[cite: 5].
+* [cite_start]Designed RESTful APIs for loan configuration and monthly installment tracking[cite: 6].
+* [cite_start]Modeled relational data in PostgreSQL with normalized schemas and foreign key constraints[cite: 7].
 
-### 🏦 EduFund — Loan Management Portal
-> *React.js · Tailwind · Node.js · Express · PostgreSQL*
+### [cite_start]**SWAP 2K25 - College Event Quiz Platform** [cite: 8]
+* [cite_start]**Tech Stack:** React.js, CSS, Node.js, Express.js, MongoDB[cite: 8].
+* [cite_start]Delivered a real-time quiz app serving 100+ live participants with live score tracking[cite: 8].
+* [cite_start]Implemented a Node.js/Express backend with MongoDB to persist quiz sessions and leaderboards[cite: 9].
 
-Full-stack student loan portal with **role-based dashboards**, automated eligibility checks, and approval workflows. Normalized PostgreSQL schemas with foreign key integrity across loan, customer & installment tables.
+### [cite_start]**Discord Moderation Bot** [cite: 10]
+* [cite_start]**Tech Stack:** Node.js, Discord.js, MongoDB[cite: 10].
+* [cite_start]Engineered a production bot using slash commands to automate anti-spam enforcement[cite: 10].
+* [cite_start]Integrated MongoDB for user infraction logs and deployed via Railway for continuous uptime[cite: 11].
 
-![Status](https://img.shields.io/badge/Status-Ongoing-orange?style=flat-square)
+### [cite_start]**Discord Event Registration Bot** [cite: 12]
+* [cite_start]**Tech Stack:** Python, Discord.py, MongoDB[cite: 12].
+* [cite_start]Developed a bot to automate participant registration with DM confirmations[cite: 12].
+* [cite_start]Reduced event coordination time by enabling admin filtering and data export from MongoDB[cite: 13].
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🎯 SWAP 2K25 — Real-Time Quiz Platform
-> *React.js · Node.js · Express · MongoDB*
+## 🎓 Education
 
-Real-time quiz web app delivered for a live college event, serving **100+ concurrent participants** with dynamic question rendering and live leaderboard tracking.
+* **Master of Computer Applications (MCA)** | Jamal Mohamed College (Autonomous) | [cite_start]Jun 2025 – Present[cite: 4].
+    * [cite_start]*Relevant Coursework:* Software Engineering, Distributed Systems, DBMS[cite: 4].
+* **Bachelor of Computer Applications (BCA)** | Jamal Mohamed College (Autonomous) | [cite_start]Jun 2022 – Apr 2025[cite: 5].
+    * [cite_start]*Result:* 66.5% (Part-III)[cite: 5].
+    * [cite_start]*Relevant Coursework:* Data Structures, Web Technologies, OOP[cite: 5].
 
-![Status](https://img.shields.io/badge/Status-Delivered-brightgreen?style=flat-square)
-![Users](https://img.shields.io/badge/Live_Users-100+-5a6340?style=flat-square)
+---
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Discord Moderation Bot
-> *Node.js · Discord.js · MongoDB · Railway*
-
-Production-deployed moderation bot with slash commands, **anti-spam enforcement**, and inappropriate language detection. MongoDB persists infraction logs; deployed with continuous uptime on Railway.
-
-![Status](https://img.shields.io/badge/Status-Live_on_Railway-5865F2?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 📋 Discord Event Registration Bot
-> *Python · Discord.py · MongoDB*
-
-Automates event participant registration via slash commands with **DM confirmations** and admin export. Eliminated manual spreadsheet tracking across events.
-
-![Status](https://img.shields.io/badge/Status-Production-brightgreen?style=flat-square)
-
-</td>
-</tr>
-</table>
+## 🏆 Certifications & Achievements
+* [cite_start]**Published/Presented:** International Conference on Advanced Computing (ICAC 2026), Jamal Mohamed College[cite: 14].
+* [cite_start]**Technical Education:** Typewriting English (Junior) - Dept. of Technical Education[cite: 14].
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Siddiq0075&show_icons=true&theme=gruvbox&hide_border=true&title_color=c4a97d&icon_color=5a6340&text_color=faf6ee&bg_color=2a2a1e" />
-  &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddiq0075&layout=compact&theme=gruvbox&hide_border=true&title_color=c4a97d&text_color=faf6ee&bg_color=2a2a1e" />
-
-  <br/><br/>
-
-  <img src="https://streak-stats.demolab.com?user=Siddiq0075&theme=gruvbox&hide_border=true&ring=c4a97d&fire=5a6340&currStreakLabel=c4a97d" />
-
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Siddiq0075&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 ---
 
-## 🏆 Achievements
+## ❤️ Support Me
 
-| 🏅 | Achievement |
-|---|---|
-| 📄 | **Published at ICAC 2026** — International Conference on Advanced Computing, Jamal Mohamed College |
-| 🎓 | **MCA** — Jamal Mohamed College (Autonomous), 2025–Present |
-| 🎓 | **BCA** — Jamal Mohamed College (Autonomous), 2022–2025 |
-| ⌨️ | **Typewriting English (Junior)** — Dept. of Technical Education, Tamil Nadu |
-| 🤖 | **2 Production Bots** deployed with continuous uptime on Railway |
-| 👥 | **100+ live users** served on SWAP 2K25 real-time quiz platform |
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-> *Open to full-time roles, internships, and interesting collaborations across all tech domains.*
-
-<br/>
-
-<a href="mailto:mohamedsiddiq7504@gmail.com">
-  <img src="https://img.shields.io/badge/mohamedsiddiq7504@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/siddiq75">
-  <img src="https://img.shields.io/badge/LinkedIn-siddiq75-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/Siddiq0075">
-  <img src="https://img.shields.io/badge/GitHub-Siddiq0075-1a1a14?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5a6340,c4a97d&height=100&section=footer" />
+<p align="center">
+  <a href="#">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  </a>
+</p>
