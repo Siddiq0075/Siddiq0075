@@ -8,7 +8,6 @@
       <feGaussianBlur stdDeviation="22" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
