@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Animated Glow Header Banner -->
-<img src="https://raw.githubusercontent.com/Siddiq0075/Siddiq0075/main/assets/header-banner.svg" alt="Mohamed Siddiq N — Full-Stack MERN Developer | Discord Automation Specialist" width="100%"/>
+<img src="assets/header-banner.svg" alt="Mohamed Siddiq N — Full-Stack MERN Developer | Discord Automation Specialist" width="100%"/>
 
 </div>
 
 <div align="center">
 
 <!-- Looping typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&pause=1000&color=DC1472&center=true&vCenter=true&width=700&lines= Super+Saiyan+Rosé+Developer+Mode+ACTIVATED; Building+scalable+REST+APIs+%26+web+apps; Engineering+Discord+bot+automation; Full-Stack+MERN+%7C+Cloud+Deployed; Clean+code.+Divine+power." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&pause=1000&color=DC1472&center=true&vCenter=true&width=700&lines=%E2%9A%A1+Super+Saiyan+Ros%C3%A9+Developer+Mode+ACTIVATED;%F0%9F%8C%B8+Building+scalable+REST+APIs+%26+web+apps;%F0%9F%A4%96+Engineering+Discord+bot+automation;%F0%9F%92%BB+Full-Stack+MERN+%7C+Cloud+Deployed;%F0%9F%94%A5+Clean+code.+Divine+power." alt="Typing SVG" />
 
 </div>
 
