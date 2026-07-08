@@ -1,0 +1,39 @@
+<svg viewBox="0 0 1728 922" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="bannerClip">
+      <rect x="0" y="0" width="1728" height="922" rx="18" ry="18"/>
+    </clipPath>
+
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="22" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="auraGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff4fb0"/>
+      <stop offset="45%" stop-color="#dc1472"/>
+      <stop offset="100%" stop-color="#7a0048"/>
+    </linearGradient>
+  </defs>
+
+  <!-- pulsing outer ki-charge aura -->
+  <rect x="10" y="10" width="1708" height="902" rx="18" ry="18"
+        fill="none" stroke="url(#auraGrad)" stroke-width="14" filter="url(#softGlow)">
+    <animate attributeName="stroke-opacity" values="0.35;0.9;0.35" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-width" values="10;22;10" dur="2.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- banner image, rounded corners -->
+  <g clip-path="url(#bannerClip)">
+    <image href="header-banner.png" x="0" y="0" width="1728" height="922"
+           preserveAspectRatio="xMidYMid slice"/>
+  </g>
+
+  <!-- crisp pulsing edge line, synced with the aura -->
+  <rect x="3" y="3" width="1722" height="916" rx="18" ry="18"
+        fill="none" stroke="url(#auraGrad)" stroke-width="3">
+    <animate attributeName="stroke-opacity" values="0.6;1;0.6" dur="2.6s" repeatCount="indefinite"/>
+  </rect>
+</svg>

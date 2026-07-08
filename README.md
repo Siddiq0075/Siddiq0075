@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- Animated SVG Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0010,50:8b0057,100:dc1472&height=220&section=header&text=Mohamed%20Siddiq%20N&fontSize=42&fontColor=ffd6ee&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20%7C%20Discord%20Automation%20Specialist&descAlignY=58&descColor=e890c8&animation=twinkling" />
+<!-- Animated Glow Header Banner -->
+<img src="https://raw.githubusercontent.com/Siddiq0075/Siddiq0075/main/assets/header-banner.svg" alt="Mohamed Siddiq N — Full-Stack MERN Developer | Discord Automation Specialist" width="100%"/>
 
 </div>
 
 <div align="center">
 
 <!-- Looping typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&pause=1000&color=DC1472&center=true&vCenter=true&width=700&lines=⚡+Super+Saiyan+Rosé+Developer+Mode+ACTIVATED;🌸+Building+scalable+REST+APIs+%26+web+apps;🤖+Engineering+Discord+bot+automation;💻+Full-Stack+MERN+%7C+Cloud+Deployed;🔥+Clean+code.+Divine+power." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=20&pause=1000&color=DC1472&center=true&vCenter=true&width=700&lines= Super+Saiyan+Rosé+Developer+Mode+ACTIVATED; Building+scalable+REST+APIs+%26+web+apps; Engineering+Discord+bot+automation; Full-Stack+MERN+%7C+Cloud+Deployed; Clean+code.+Divine+power." alt="Typing SVG" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-> *「 I build scalable REST APIs, craft cloud-deployed web applications, and engineer robust Discord bot automation. End-to-end solutions with clean, maintainable code wrapped in intuitive, smooth user experiences. 」*
+> _「 I build scalable REST APIs, craft cloud-deployed web applications, and engineer robust Discord bot automation. End-to-end solutions with clean, maintainable code wrapped in intuitive, smooth user experiences. 」_
 
 </div>
 
@@ -82,6 +82,7 @@
 <td width="50%" valign="top">
 
 ### 🎓 EduFund — Student Loan Portal
+
 ![Status](https://img.shields.io/badge/Status-Ongoing-dc1472?style=flat-square&labelColor=1a0010)
 
 Full-stack loan management portal with **role-based dashboards** and automated eligibility checks. RESTful APIs for loan configuration and monthly installment tracking. Normalized PostgreSQL schemas with foreign key constraints.
@@ -95,6 +96,7 @@ Full-stack loan management portal with **role-based dashboards** and automated e
 <td width="50%" valign="top">
 
 ### 🧠 SWAP 2K25 — Quiz Platform
+
 ![Status](https://img.shields.io/badge/Status-Shipped-8b0057?style=flat-square&labelColor=1a0010)
 
 Real-time quiz app that served **100+ live participants** with live score tracking. Node.js/Express backend with MongoDB to persist quiz sessions and leaderboards.
@@ -109,6 +111,7 @@ Real-time quiz app that served **100+ live participants** with live score tracki
 <td width="50%" valign="top">
 
 ### 🛡️ Discord Moderation Bot
+
 ![Status](https://img.shields.io/badge/Status-Production-dc1472?style=flat-square&labelColor=1a0010)
 
 Production bot using **slash commands** to automate anti-spam enforcement. MongoDB for user infraction logs, deployed via Railway for continuous uptime.
@@ -122,6 +125,7 @@ Production bot using **slash commands** to automate anti-spam enforcement. Mongo
 <td width="50%" valign="top">
 
 ### 📅 Discord Event Registration Bot
+
 ![Status](https://img.shields.io/badge/Status-Deployed-8b0057?style=flat-square&labelColor=1a0010)
 
 Automates participant registration with **DM confirmations**. Admin filtering and MongoDB data export reduced event coordination time significantly.
@@ -138,9 +142,9 @@ Automates participant registration with **DM confirmations**. Admin filtering an
 
 ## 🎓 Education & Certifications
 
-| Degree | Institution | Period | Details |
-|--------|-------------|--------|---------|
-| 🎓 **MCA** — Master of Computer Applications | Jamal Mohamed College (Autonomous) | Jun 2025 – Present | Software Engineering · Distributed Systems · DBMS |
+| Degree                                         | Institution                        | Period              | Details                                                  |
+| ---------------------------------------------- | ---------------------------------- | ------------------- | -------------------------------------------------------- |
+| 🎓 **MCA** — Master of Computer Applications   | Jamal Mohamed College (Autonomous) | Jun 2025 – Present  | Software Engineering · Distributed Systems · DBMS        |
 | 🎓 **BCA** — Bachelor of Computer Applications | Jamal Mohamed College (Autonomous) | Jun 2022 – Apr 2025 | Result: 66.5% · Data Structures · Web Technologies · OOP |
 
 **🏆 Achievements**
