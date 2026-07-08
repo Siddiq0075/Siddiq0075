@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Glow Header Banner -->
-<img src="assets/header-banner.png" alt="Mohamed Siddiq N — Full-Stack MERN Developer | Discord Automation Specialist" width="100%"/>
+<img src="assets/header-banner.svg" alt="Mohamed Siddiq N — Full-Stack MERN Developer | Discord Automation Specialist" width="100%"/>
 
 </div>
 
