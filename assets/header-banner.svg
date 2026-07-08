@@ -28,7 +28,7 @@
 
   <!-- banner image, rounded corners -->
   <g clip-path="url(#bannerClip)">
-    <image href="header-banner.png" xlink:href="header-banner.png" x="0" y="0" width="1728" height="922"
+    <image href="header-banner.png" x="0" y="0" width="1728" height="922"
            preserveAspectRatio="xMidYMid slice"/>
   </g>
 
