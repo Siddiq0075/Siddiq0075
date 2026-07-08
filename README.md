@@ -189,3 +189,22 @@ Automates participant registration with **DM confirmations**. Admin filtering an
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0010,50:8b0057,100:dc1472&height=120&section=footer&animation=twinkling" />
 
 </div>
+
+<p align="center">
+
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Siddiq0075/Siddiq0075/output/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Siddiq0075/Siddiq0075/output/github-contribution-grid-snake.svg">
+
+<img alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/Siddiq0075/Siddiq0075/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+</p>
